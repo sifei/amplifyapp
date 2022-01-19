@@ -33,7 +33,6 @@ function App() {
           Wakeup Safe
         </a>
 
-        <AmplifySignOut />
       </header>
 
     </div>
